@@ -38,3 +38,13 @@ body {
 .sticky + .content {
   padding-top: 60px;
 }
+
+#welcome-section {
+  height: 100vh;
+}
+
+@media screen and (max-width: 1px) {
+  body {
+    background-color: blueviolet;
+  }
+}
